@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scrollable_layout" type="id"/>
+    <item name="scrollable_layout_arrow" type="id"/>
+    <item name="scrollable_layout_msg" type="id"/>
+    <item name="scrollable_layout_progressbar" type="id"/>
+</resources>

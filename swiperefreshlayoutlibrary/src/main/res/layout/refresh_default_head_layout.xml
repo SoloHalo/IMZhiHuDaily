@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:gravity="center"
+    android:padding="8dp"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_margin="4dp"
+        android:layout_width="20dp"
+        android:layout_height="20dp">
+
+        <ImageView
+            android:id="@id/scrollable_layout_arrow"
+            android:src="@drawable/default_ptr_flip"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ProgressBar
+            android:id="@id/scrollable_layout_progressbar"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </FrameLayout>
+
+
+    <TextView
+        android:id="@id/scrollable_layout_msg"
+        android:layout_margin="4dp"
+        android:text="下拉刷新"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">知乎日报</string>
+    <string name="search">搜索</string>
+    <string name="notification">通知</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="current_title">首页</string>
+    <string name="drawer_open">1</string>
+    <string name="drawer_close">2</string>
+    <string name="name">胡歌</string>
+    <string name="dfd">dfd</string>
+    <string name="home_page">首页</string>
+    <string name="daily_psychology">日常心理学</string>
+    <string name="hello_world">Hello world</string>
+    <string name="isLoading">加载中</string>
+    <string name="test">《侏罗纪公园》</string>
+    <string name="test_title">复活恐龙的希望，科学家一直没有放弃</string>
+    <string name="user_recommend_news">用户推荐日报</string>
+    <string name="movie_newspaper">电影日报</string>
+    <string name="tv">路遥知马力，日久见人心</string>
+    <string name="editor">主编</string>
+    <string name="share">分享</string>
+    <string name="favorite">收藏</string>
+    <string name="comment">评论</string>
+    <string name="my_favorite">我的收藏</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_page"
+            android:icon="@drawable/ic_home_blue_800_24dp"
+            android:title="@string/home_page" />
+        <item
+            android:id="@+id/like"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/my_favorite" />
+    </group>
+
+</menu>

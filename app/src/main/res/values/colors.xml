@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="statusBar">#ab868686</color>
+    <color name="gray">#bcb2b2</color>
+    <color name="white">#f7f7f7</color>
+    <color name="black">#403d3d</color>
+    <color name="transparent">#00f2eded</color>
+    <color name="gray_dark">#ff999999</color>
+    <color name="theme_color_window_background">#ffeaeaea</color>
+</resources>
